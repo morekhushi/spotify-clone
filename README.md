@@ -39,4 +39,4 @@ A static clone of the Spotify web player, built using **HTML**, **CSS**, and **B
 ## 🙋‍♀️ Author
 
 khushi More  
-Connect with me on LinkedIn-(https://www.linkedin.com/in/khushi-more/) | [GitHub](#)
+Connect with me on LinkedIn-(https://www.linkedin.com/in/khushi-more/) | GitHub-(https://github.com/morekhushi)
